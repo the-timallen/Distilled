@@ -1,0 +1,24 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "name": "Distilled",
+  "url": "https://www.distilled.net/",
+  "sameAs": [
+    "http://www.facebook.com/distilled",
+    "http://twitter.com/distilled"
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.distilled.net/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.distilled.net/search?text={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
